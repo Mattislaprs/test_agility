@@ -1,20 +1,30 @@
-# Requirements to build the Python documentation
+## Packages à installer :
 
-# Sphinx version is pinned so that new versions that introduce new warnings
-# won't suddenly cause build failures. Updating the version is fine as long
-# as no warnings are raised by doing so.
-sphinx==3.4.3
-# Docutils version is pinned to a version compatible with Sphinx
-# version <3.5.4. It can be removed after bumping Sphinx version to at
-# least 3.5.4.
-docutils==0.17.1
-# Jinja version is pinned to a version compatible with Sphinx version <4.5.
-jinja2==3.0.3
+pip install pyserial
+pip install opencv-python
+pip install bleak
+pip install nest_asyncio
+pip install image
+pip install colormath
+pip install heatshrink2
 
-blurb
+pip install json
+pip install os
+pip install sys
+pip install random
 
-# The theme used by the documentation is stored separately, so we need
-# to install that as well.
-python-docs-theme>=2022.1
+## Fichier à avoir :
 
--c constraints.txt
+ALookCom.anim
+ALookCom.img
+ALookCom.imgFmt
+ALookCom.layout
+ALookCom.commandPub
+ALookCom.comBin
+ALookCom.comFile
+ALookCom.comBle import
+xdpchandler
+
+sensorParam
+setTimer
+
