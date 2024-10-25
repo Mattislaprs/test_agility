@@ -10,7 +10,6 @@ image
 colormath
 heatshrink2
 
-os
 sys
 random
 
