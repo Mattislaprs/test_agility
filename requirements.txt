@@ -3,19 +3,18 @@ Créer un environnement python 3.10
 
 
 ## Packages à installer :
-pip install Streamlit
-pip install pyserial
-pip install opencv-python
-pip install bleak
-pip install nest_asyncio
-pip install image
-pip install colormath
-pip install heatshrink2
-
-pip install json
-pip install os
-pip install sys
-pip install random
+Streamlit
+pyserial
+opencv-python
+bleak
+nest_asyncio
+image
+colormath
+heatshrink2
+json
+os
+sys
+random
 
 ## Fichier à avoir :
 ALookCom.anim
