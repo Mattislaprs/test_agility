@@ -22,7 +22,7 @@ ALookCom.layout
 ALookCom.commandPub
 ALookCom.comBin
 ALookCom.comFile
-ALookCom.comBle import
+ALookCom.comBle
 xdpchandler
 
 sensorParam
