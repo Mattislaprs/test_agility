@@ -10,8 +10,6 @@ image
 colormath
 heatshrink2
 
-sys
-random
 
 ## Fichier à avoir :
 ALookCom.anim
