@@ -1,7 +1,7 @@
 ## Créer un environnement python 3.10
 
 ## Packages à installer :
-Streamlit
+streamlit
 pyserial
 opencv-python
 bleak
