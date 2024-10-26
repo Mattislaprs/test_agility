@@ -5,17 +5,12 @@ Created on Fri Oct 25 13:58:59 2024
 @author: Student
 """
 
-sys.path.append(os.path.join(os.path.dirname(__file__), 'files'))
-
 import json
 import os
 import sys
 import random
-# =============================================================================
-# import matplotlib.pyplot as plt
-# import matplotlib.image as mpimg
-# =============================================================================
 
+sys.path.append(os.path.join(os.path.dirname(__file__), 'files'))
 from ALookCom.commandPub import CommandPub
 from ALookCom.comBle import ComBle
 from xdpchandler import *
