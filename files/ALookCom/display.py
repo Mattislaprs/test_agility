@@ -1,2 +1,0 @@
-WIDTH =  304
-HEIGHT =  256
