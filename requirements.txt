@@ -12,7 +12,7 @@ heatshrink2
 
 
 ## Fichier à avoir :
-ALookCom.anim
+#ALookCom.anim
 ALookCom.img
 ALookCom.imgFmt
 ALookCom.layout
