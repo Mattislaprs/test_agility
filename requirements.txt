@@ -9,16 +9,10 @@ nest_asyncio
 image
 colormath
 heatshrink2
-
+random
 
 ## Fichier à avoir :
-#ALookCom.anim
-ALookCom.img
-ALookCom.imgFmt
-ALookCom.layout
 ALookCom.commandPub
-ALookCom.comBin
-ALookCom.comFile
 ALookCom.comBle
 xdpchandler
 
