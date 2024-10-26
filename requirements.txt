@@ -12,10 +12,10 @@ heatshrink2
 
 
 ## Fichier à avoir :
-ALookCom.commandPub
-ALookCom.comBle
-xdpchandler
+#ALookCom.commandPub
+#ALookCom.comBle
+#xdpchandler
 
-sensorParam
-setTimer
+#sensorParam
+#setTimer
 
